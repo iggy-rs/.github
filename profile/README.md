@@ -9,3 +9,8 @@ For the **quick start tutorial** on how to run the streaming server, etc. check 
 To find out how to **build your first application** using the SDK, please refer to the [getting started](https://docs.iggy.rs/introduction/getting-started) guide.
 
 If you'd like to **contribute** to the project, please check the [contributing](https://github.com/iggy-rs/.github/blob/main/CONTRIBUTING.md) guide.
+
+Also, feel free to follow us on the following social media:
+- [X (Twitter)](https://x.com/ApacheIggy)
+- [Bluesky](https://bsky.app/profile/iggy.rs)
+- [LinkedIn](https://www.linkedin.com/company/apache-iggy/)

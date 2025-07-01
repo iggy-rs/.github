@@ -1,4 +1,4 @@
-Welcome to [Apache Iggy](https://iggy.rs) message streaming!
+Welcome to [Apache Iggy](https://iggy.apache.org) message streaming!
 
 The source code has been moved to [Apache Iggy](https://github.com/apache/iggy/)
 
